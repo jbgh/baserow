@@ -14,6 +14,8 @@ tool gives you the powers of a developer without leaving your browser.
 * Uses popular frameworks and tools like [Django](https://www.djangoproject.com/),
   [Vue.js](https://vuejs.org/) and [PostgreSQL](https://www.postgresql.org/).
 
+[![Deploy to Dome](https://trydome.io/button.svg)](https://app.trydome.io/signup?package=motor-admin)
+
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bram2w/baserow/tree/master)
 
 ```bash
